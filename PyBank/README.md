@@ -1,4 +1,6 @@
-PyBank Analysis
+PyBank Analysis:
+
+
     In this analysis, we are pulling data for profits/losses over a time period, and calculating various items.
     First we import the csv and set the pathway to the correct folder
     Then we set the variables, including an empty list to track the profit changes over each row
